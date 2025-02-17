@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 Trabalhando em desenvolvimento multiplataforma
+- 🌱 Aprendendo React Native, JavaScript and C
+- 📫 Para comunicação: tqss2759@gmail.com
+- 📖 Cursando Análise e Desenvolvimento de Sistemas no IFBA
+
 <!--
 **ThiagoQSS/ThiagoQSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
