@@ -1,7 +1,7 @@
 ## Prazer, Thiago Quadros ✨
 
-- 🔭 Trabalhando em desenvolvimento multiplataforma
-- 🌱 Aprendendo React Native, JavaScript e C
+- 🔭 Trabalhando em desenvolvimento multiplataforma com React Native 
+- 🌱 Aprendendo React Native, JavaScript, Java e C
 - 📫 Para comunicação: tqss2759@gmail.com
 - 📖 Cursando Análise e Desenvolvimento de Sistemas no IFBA
 
